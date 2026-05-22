@@ -1,0 +1,14 @@
+{
+  "anomaly_features": [
+    "monthly_spend",
+    "txn_count",
+    "avg_txn_value",
+    "util_rate",
+    "intl_txn_pct",
+    "travel_spend",
+    "reward_pts_mo"
+  ],
+  "contamination": 0.04,
+  "n_anomalies": 1200,
+  "anomaly_rate": 4.0
+}

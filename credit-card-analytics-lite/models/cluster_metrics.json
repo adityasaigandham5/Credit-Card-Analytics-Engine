@@ -1,0 +1,21 @@
+{
+  "cluster_features": [
+    "monthly_spend",
+    "travel_spend",
+    "shopping_spend",
+    "food_spend",
+    "txn_count",
+    "avg_txn_value",
+    "util_rate",
+    "reward_pts_mo",
+    "intl_txn_pct"
+  ],
+  "silhouette_score": 0.1783,
+  "persona_map": {
+    "0": "Everyday User",
+    "1": "Everyday User",
+    "2": "Premium Shopper",
+    "3": "Premium Shopper",
+    "4": "Everyday User"
+  }
+}

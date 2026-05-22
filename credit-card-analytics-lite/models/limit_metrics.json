@@ -1,0 +1,25 @@
+{
+  "rmse": 4944.0,
+  "mae": 2952.0,
+  "r2": 0.9957,
+  "features": [
+    "age",
+    "income_mo",
+    "cibil",
+    "tenure_mo",
+    "city_enc",
+    "monthly_spend",
+    "txn_count",
+    "avg_txn_value",
+    "util_rate",
+    "payment_enc",
+    "reward_pts_mo",
+    "intl_txn_pct",
+    "missed_payments",
+    "autopay_enabled",
+    "persona_enc",
+    "income_spend_ratio",
+    "spend_per_txn",
+    "high_util_flag"
+  ]
+}
